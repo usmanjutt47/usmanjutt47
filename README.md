@@ -19,9 +19,9 @@ I'm a React Native developer with 2 years of experience in building mobile appli
 
 ## 📫 How to reach me
 
-- **Email:** [Muhammad Usman Tariq](usmanjutt04747@gmail.com)
-- **LinkedIn:** [Muhammad Usman Tariq](https://www.linkedin.com/in/muhammad-usman-tariq-41a6b72b0/)
-- **GitHub:** [usmanjutt47](https://github.com/usmanjutt47)
+- **Email:** [usmanjutt04747@gmail.com](usmanjutt04747@gmail.com)
+- **LinkedIn:** [[Muhammad Usman Tariq](https://www.linkedin.com/in/muhammad-usman-tariq-41a6b72b0/)](https://www.linkedin.com/in/muhammad-usman-tariq-41a6b72b0/)
+- **GitHub:** [https://github.com/usmanjutt47](https://github.com/usmanjutt47)
 
 ## 🌱 Currently Learning
 
