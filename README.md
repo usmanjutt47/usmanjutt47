@@ -1,4 +1,4 @@
-# Hi there, I'm Usman Jutt 👋
+# Hi there, I'm Usman Tariq 👋
 
 I'm a React Native developer with 2 years of experience in building mobile applications. I specialize in creating cross-platform apps with a focus on performance and user experience.
 
