@@ -69,17 +69,3 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanjutt47&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
 </p>
-
----
-
-<h3 align="left">🚀 Featured Projects</h3>
-<ul>
-  <li>🏋️ <b>Gym App</b> – Personalized fitness tracking and workout planner built with React Native + Expo.</li>
-  <li>🧹 <b>HandyCare</b> – On-demand home services app built using MERN + Expo Router.</li>
-  <li>📰 <b>NewsArc</b> – Modern news UI built with React Native & Tailwind.</li>
-  <li>📱 <b>Identify Things</b> – Educational app using ML API integration.</li>
-</ul>
-
----
-
-> *"Code that solves real problems is always better than code that just looks pretty."*
