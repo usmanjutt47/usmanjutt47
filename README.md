@@ -1,38 +1,70 @@
-# Hi there, I'm Usman Tariq 👋
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<h1 align="center">Hi 👋, I'm Muhammad Usman Tariq</h1>
+<h3 align="center">A Full Stack Developer from Devscot</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
-I'm a React Native developer with 2 years of experience in building mobile applications. I specialize in creating cross-platform apps with a focus on performance and user experience.
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=muhammadusmantariq&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadusmantariq" /> 
+</p>
 
-## 🚀 Skills
+<p align="left"> 
+  <a href="https://www.instagram.com/usmanjutt0447" target="blank">
+    <img src="https://img.shields.io/twitter/follow/muhammadusmantariq?logo=twitter&style=for-the-badge" alt="muhammadusmantariq" />
+  </a> 
+</p>
 
-- **Languages:** JavaScript, TypeScript
-- **Frameworks:** React Native, React
-- **Tools:** Redux, MobX, Expo, Firebase
-- **Testing:** Jest, React Native Testing Library
-- **Version Control:** Git, GitHub
+- 🌱 I’m currently learning **Next.js**  
+- 💬 Ask me about **React Native, MERN Stack, and Full Stack Development**  
+- 📫 How to reach me **usmanjutt04747@gmail.com**  
+- 📞 Contact **0304-3061019**  
+- ⚡ Fun fact **I have a secret stash of chocolate hidden near my desk for coding emergencies 🍫**  
 
-## 💼 Experience
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-usman-tariq-ab33ab32a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad usman tariq" height="30" width="40" /></a>
+<a href="https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/usmanjutt0447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+</p>
 
-- Developed and maintained several React Native applications, delivering high-quality and performant mobile apps.
-- Collaborated with cross-functional teams to define, design, and ship new features.
-- Ensured the performance, quality, and responsiveness of applications.
-- Worked with external data sources and APIs.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a> 
+</p>
 
-## 📫 How to reach me
-
-- **Email:** [Muhammad Usman Tariq](usmanjutt04747@gmail.com)
-- **LinkedIn:** [Muhammad Usman Tariq](https://www.linkedin.com/in/muhammad-usman-tariq-41a6b72b0/)
-- **GitHub:** [https://github.com/usmanjutt47](https://github.com/usmanjutt47)
-
-## 🌱 Currently Learning
-
-- Advanced React Native techniques
-- Backend development with Node.js and Express
-- GraphQL
-
-## ⚡ Fun fact
-
-I love to explore new technologies and keep myself updated with the latest trends in mobile development.
-
----
-
-Feel free to reach out if you want to collaborate on a project or just want to chat about mobile development. Let's connect and build something amazing!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadusmantariq&show_icons=true&locale=en&layout=compact" alt="muhammadusmantariq" /></p>
