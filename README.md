@@ -67,7 +67,7 @@
 
 <h3 align="left">GitHub Stats</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanjutt0447&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanjutt47&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
 </p>
 
 ---
