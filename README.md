@@ -12,7 +12,7 @@
 - 🚀 Specialized in **React Native**, **Expo Router**, and **MERN Stack**  
 - 🌱 Currently learning **advanced backend & serverless patterns**  
 - 💬 Ask me about **React Native, tRPC, Next.js, MongoDB, Express**  
-- 📫 Reach me at **muhammadusmantariq.dev@gmail.com**  
+- 📫 Reach me at **usmanjutt04747@gmail.com**  
 - ⚡ Fun fact: *Code, Coffee, and Clean UI — my daily stack ☕📱*  
 
 ---
