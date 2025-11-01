@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=Muhammad%20Usman%20Tariq&fontSize=42&fontAlignY=35&desc=React%20Native%20•%20Full%20Stack%20MERN%20Developer&descAlignY=58&fontColor=ffffff)
 
-<h3 align="center">React Native • MERN Stack • Full Stack Developer</h3>
+<h3 align="center">React Native / MERN Stack / Full Stack Developer</h3>
 
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
@@ -8,42 +8,78 @@
   <img src="https://komarev.com/ghpvc/?username=usmanjutt0447&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
----
-
-### 👨‍💻 About Me
-I'm **Muhammad Usman Tariq**, a passionate **React Native Full Stack Developer** specializing in creating high-performance mobile and web apps using **React Native, React, Node.js, Express, and MongoDB**.  
-I focus on delivering clean, scalable, and production-ready solutions.
-
----
-
-### 🚀 Tech Stack
-- **Frontend:** React Native, React.js, Expo, Next.js  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, Firebase, PostgreSQL  
-- **Tools & Others:** TypeScript, Yarn, Redux, Git, Vercel  
+- 💻 Full-stack mobile app developer with **2 years of experience**  
+- 🚀 Specialized in **React Native**, **Expo Router**, and **MERN Stack**  
+- 🌱 Currently learning **advanced backend & serverless patterns**  
+- 💬 Ask me about **React Native, tRPC, Next.js, MongoDB, Express**  
+- 📫 Reach me at **muhammadusmantariq.dev@gmail.com**  
+- ⚡ Fun fact: *Code, Coffee, and Clean UI — my daily stack ☕📱*  
 
 ---
 
-### 🌐 Connect with Me
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-usman-tariq-ab33ab32a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/muhammad-usman-tariq-ab33ab32a/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/usmanjutt0447/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/usmanjutt0447/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmanjutt0447&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmanjutt0447&theme=radical" alt="GitHub Streak" />
+<h3 align="left">Languages & Tools:</h3>
+<p align="left"> 
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react native" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
 </p>
 
 ---
 
-### ⚡ Fun Fact
-> “Clean code always wins. The best developers are the ones who understand both the code and the user.”
+<h3 align="left">GitHub Stats</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanjutt0447&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
+</p>
 
+---
+
+<h3 align="left">🚀 Featured Projects</h3>
+<ul>
+  <li>🏋️ <b>Gym App</b> – Personalized fitness tracking and workout planner built with React Native + Expo.</li>
+  <li>🧹 <b>HandyCare</b> – On-demand home services app built using MERN + Expo Router.</li>
+  <li>📰 <b>NewsArc</b> – Modern news UI built with React Native & Tailwind.</li>
+  <li>📱 <b>Identify Things</b> – Educational app using ML API integration.</li>
+</ul>
+
+---
+
+> *"Code that solves real problems is always better than code that just looks pretty."*
