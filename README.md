@@ -7,12 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=muhammadusmantariq&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadusmantariq" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://www.instagram.com/usmanjutt0447" target="blank">
-    <img src="https://img.shields.io/twitter/follow/muhammadusmantariq?logo=twitter&style=for-the-badge" alt="muhammadusmantariq" />
-  </a> 
-</p>
-
 - 🌱 I’m currently learning **Next.js**  
 - 💬 Ask me about **React Native, MERN Stack, and Full Stack Development**  
 - 📫 How to reach me **usmanjutt04747@gmail.com**  
@@ -21,10 +15,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammad-usman-tariq-ab33ab32a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad usman tariq" height="30" width="40" /></a>
-<a href="https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/usmanjutt0447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-usman-tariq-ab33ab32a/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad usman tariq" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/usmanjutt0447" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -67,4 +63,6 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadusmantariq&show_icons=true&locale=en&layout=compact" alt="muhammadusmantariq" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadusmantariq&show_icons=true&locale=en&layout=compact" alt="muhammadusmantariq" />
+</p>
