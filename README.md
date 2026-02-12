@@ -62,10 +62,3 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
 </p>
-
----
-
-<h3 align="left">GitHub Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanjutt47&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
-</p>
