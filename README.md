@@ -22,6 +22,9 @@
   <a href="https://www.linkedin.com/in/muhammad-usman-tariq-ab33ab32a/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <a href="https://www.instagram.com/usmanjutt0447/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -58,4 +61,11 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
+</p>
+
+---
+
+<h3 align="left">GitHub Stats</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanjutt47&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
 </p>
