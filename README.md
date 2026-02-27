@@ -23,7 +23,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 <a href="mailto:usmanjutt04747@gmail.com">
-    <img align="center" src="https://png.pngtree.com/template/20190717/ourmid/pngtree-gmail-logo-png-image_229718.jpg" alt="Gmail" height="30" width="30" />
+    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
