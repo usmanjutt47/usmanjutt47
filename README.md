@@ -66,9 +66,10 @@
 ---
 
 <h3 align="left">GitHub Stats</h3>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmanjutt47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Usman's GitHub stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanjutt47&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=usmanjutt47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Usman's GitHub stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=usmanjutt47&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
 </p>
 
 <p align="left">
