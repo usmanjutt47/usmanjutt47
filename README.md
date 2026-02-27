@@ -2,18 +2,18 @@
 
 <h3 align="center">React Native / MERN Stack / Full Stack Developer</h3>
 
+<div>
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
-<p align="left"> 
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=usmanjutt0447&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
-- 💻 Full-stack mobile app developer with **2 years of experience**  
-- 🚀 Specialized in **React Native**, **Expo Router**, and **MERN Stack**  
-- 🌱 Currently learning **advanced backend & serverless patterns**  
-- 💬 Ask me about **React Native, tRPC, Next.js, MongoDB, Express**  
-- 📫 Reach me at **usmanjutt04747@gmail.com**  
-- ⚡ Fun fact: *Code, Coffee, and Clean UI — my daily stack ☕📱*  
+- 💻 Full-stack mobile app developer with **2 years of experience** - 🚀 Specialized in **React Native**, **Expo Router**, and **MERN Stack** - 🍎 Proficient in iOS development with **Swift**
+- 🌱 Currently learning **advanced backend & serverless patterns** - 💬 Ask me about **React Native, Swift, tRPC, Next.js, MongoDB** - 📫 Reach me at **usmanjutt04747@gmail.com** - ⚡ Fun fact: *Code, Coffee, and Clean UI — my daily stack ☕📱*
+</div>
+
+<br clear="both" />
 
 ---
 
@@ -31,6 +31,9 @@
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+  </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react native" width="40" height="40"/> 
   </a> 
