@@ -19,3 +19,5 @@ jobs:
         with:
           USERNAME: usmanjutt47
           THEME: github_dark
+          BRANCH_NAME: main
+          AUTO_PUSH: true
