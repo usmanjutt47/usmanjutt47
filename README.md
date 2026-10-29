@@ -231,25 +231,12 @@ The tool collects structured business information and exports clean Excel files 
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=usmanjutt47&show_icons=true&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=94A3B8&icon_color=3B82F6&ring_color=3B82F6&rank_icon=github"
-  alt="GitHub Stats"
-/>
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanjutt47&layout=compact&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=94A3B8&langs_count=10&hide=html,css,jupyter%20notebook"
-  alt="Most Used Languages"
-/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=usmanjutt47&theme=github_dark" alt="GitHub Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usmanjutt47&theme=github_dark" alt="Most Used Languages" />
 
 <br/><br/>
 
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=usmanjutt47&hide_border=true&background=00000000&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"
-  alt="GitHub Streak"
-/>
+<img width="70%" src="https://streak-stats.demolab.com?user=usmanjutt47&hide_border=true&background=00000000&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
@@ -275,11 +262,7 @@ The tool collects structured business information and exports clean Excel files 
 
 <div align="center">
 
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=usmanjutt47&bg_color=00000000&color=94A3B8&line=3B82F6&point=60A5FA&area=true&hide_border=true"
-  alt="GitHub Contribution Activity"
-/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmanjutt47&theme=github_dark" alt="GitHub Contribution Activity" />
 
 </div>
 
