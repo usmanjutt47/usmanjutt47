@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0F172A,100:2563EB&text=Muhammad%20Usman%20Tariq&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Mobile%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Product%20Builder&descSize=16&descAlignY=56&animation=fadeIn"/>
+<img width="100%" src="https://raw.githubusercontent.com/usmanjutt47/usmanjutt47/main/assets/header-3d.svg" alt="Muhammad Usman Tariq"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=React+Native+%26+Expo+Developer;Building+Production-Ready+Mobile+Products;Swift+%26+SwiftUI+Development;Full+Stack+MERN+Engineering;Open+Source+Developer" alt="Typing SVG"/>
 
