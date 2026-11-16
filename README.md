@@ -18,7 +18,7 @@
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/usmanjutt47/usmanjutt47/main/assets/divider.svg"/>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
@@ -37,7 +37,7 @@ let usman = Developer(
 - ⚡ Backend & APIs with **Node.js, Express & MongoDB**
 - 📦 Maker of open-source tools developers actually use
 
----
+<img width="100%" src="https://raw.githubusercontent.com/usmanjutt47/usmanjutt47/main/assets/divider.svg"/>
 
 ## 🚀 My Tech Universe
 
@@ -49,67 +49,67 @@ let usman = Developer(
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,xcode,vscode,postman,npm&theme=dark&perline=8"/>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/usmanjutt47/usmanjutt47/main/assets/skills-orbit.svg" width="300"/>
+
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/usmanjutt47/usmanjutt47/main/assets/divider.svg"/>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=usmanjutt47&theme=tokyonight&no-frame=true&row=1&margin-w=12"/>
+<img width="100%" src="https://raw.githubusercontent.com/usmanjutt47/usmanjutt47/main/assets/achievements.svg"/>
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/usmanjutt47/usmanjutt47/main/assets/divider.svg"/>
 
 ## 📊 Stats & Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=usmanjutt47&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanjutt47&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=usmanjutt47&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usmanjutt47&theme=github_dark"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=usmanjutt47&theme=tokyonight&hide_border=true&ring=3B82F6&fire=60A5FA"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=usmanjutt47&hide_border=true&background=00000000&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 <br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=usmanjutt47&theme=tokyo-night&hide_border=true&area=true"/>
 
+<br/><br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmanjutt47&theme=github_dark"/>
+
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/usmanjutt47/usmanjutt47/main/assets/divider.svg"/>
 
 ## 🌟 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/usmanjutt47/expo-country-picker">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=usmanjutt47&repo=expo-country-picker&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/usmanjutt47/Google-Maps-Scrapper">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=usmanjutt47&repo=Google-Maps-Scrapper&theme=tokyonight&hide_border=true"/>
-</a>
+<a href="https://github.com/usmanjutt47/expo-country-picker"><img width="49%" src="https://raw.githubusercontent.com/usmanjutt47/usmanjutt47/main/assets/project-picker.svg"/></a>
+<a href="https://github.com/usmanjutt47/Google-Maps-Scrapper"><img width="49%" src="https://raw.githubusercontent.com/usmanjutt47/usmanjutt47/main/assets/project-scraper.svg"/></a>
 
 </div>
 
-<p align="center">
-🌍 <b>Expo Country Picker</b> — reusable country picker for React Native & Expo &nbsp;•&nbsp; 🗺️ <b>Google Maps Scraper</b> — business leads from Maps to Excel, automatically
-</p>
+<img width="100%" src="https://raw.githubusercontent.com/usmanjutt47/usmanjutt47/main/assets/divider.svg"/>
 
----
-
-## 🐍 Watch the Snake Eat My Contributions
+## 🐍 Snake Animation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/usmanjutt47/usmanjutt47/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+🐍 *The contribution snake switches on as soon as the snake workflow file is added — ask me for the code!*
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/usmanjutt47/usmanjutt47/main/assets/divider.svg"/>
 
 <div align="center">
 
