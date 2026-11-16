@@ -22,20 +22,11 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
-```swift
-let usman = Developer(
-    role: "Mobile Engineer & Full Stack Developer",
-    stack: ["React Native", "Expo", "Swift", "SwiftUI", "Node.js"],
-    focus: "Design file ➜ Production release",
-    openSource: true,
-    hireable: true
-)
-```
+<div align="center">
 
-- 📱 Building production-ready apps with **React Native & Expo**
-- 🍎 Growing deep into the Apple ecosystem with **Swift & SwiftUI**
-- ⚡ Backend & APIs with **Node.js, Express & MongoDB**
-- 📦 Maker of open-source tools developers actually use
+<img width="100%" src="https://raw.githubusercontent.com/usmanjutt47/usmanjutt47/main/assets/about-animated.svg" alt="About Muhammad Usman Tariq"/>
+
+</div>
 
 <img width="100%" src="https://raw.githubusercontent.com/usmanjutt47/usmanjutt47/main/assets/divider.svg"/>
 
@@ -105,7 +96,7 @@ let usman = Developer(
 
 <div align="center">
 
-🐍 *The contribution snake switches on as soon as the snake workflow file is added — ask me for the code!*
+<img width="100%" src="https://raw.githubusercontent.com/usmanjutt47/usmanjutt47/main/assets/snake-loading.svg" alt="Snake loading"/>
 
 </div>
 
