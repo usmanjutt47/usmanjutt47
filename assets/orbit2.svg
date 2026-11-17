@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="340" viewBox="0 0 340 340">
+  <defs>
+    <path id="circ2" d="M170,170 m-130,0 a130,130 0 1,1 260,0 a130,130 0 1,1 -260,0"/>
+    <g id="cubeD">
+      <polygon points="0,-46 40,-23 0,0 -40,-23" fill="#F9A8D4"/>
+      <polygon points="-40,-23 0,0 0,46 -40,23" fill="#8B5CF6"/>
+      <polygon points="0,0 40,-23 40,23 0,46" fill="#6D28D9"/>
+    </g>
+  </defs>
+  <circle cx="170" cy="170" r="158" fill="none" stroke="#6D28D9" stroke-width="1" stroke-dasharray="3 7" opacity="0.7">
+    <animateTransform attributeName="transform" type="rotate" from="360 170 170" to="0 170 170" dur="40s" repeatCount="indefinite"/>
+  </circle>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 170 170" to="360 170 170" dur="28s" repeatCount="indefinite"/>
+    <text font-family="Verdana, Geneva, sans-serif" font-size="16.5" font-weight="bold" letter-spacing="5" fill="#F472B6">
+      <textPath href="#circ2">REACT NATIVE • EXPO • SWIFT • SWIFTUI • TYPESCRIPT • NODE.JS •</textPath>
+    </text>
+  </g>
+  <circle cx="170" cy="170" r="92" fill="none" stroke="#EC4899" stroke-width="1.5" opacity="0.5">
+    <animate attributeName="r" values="92;97;92" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <g transform="translate(170,170)">
+    <animateTransform attributeName="transform" type="translate" values="170,170;170,160;170,170" dur="5s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-5;5;-5" dur="7s" repeatCount="indefinite"/>
+      <use href="#cubeD"/>
+    </g>
+  </g>
+</svg>

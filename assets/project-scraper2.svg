@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="150" viewBox="0 0 390 150">
+  <defs>
+    <linearGradient id="pb2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+      <animate attributeName="x1" values="0%;60%;0%" dur="6s" begin="-3s" repeatCount="indefinite"/>
+      <animate attributeName="y1" values="0%;60%;0%" dur="6s" begin="-3s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="pc2"><rect x="1" y="1" width="388" height="148" rx="12"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="388" height="148" rx="12" fill="#14062B" stroke="url(#pb2)" stroke-width="2"/>
+  <g clip-path="url(#pc2)">
+    <rect x="-120" y="0" width="70" height="150" fill="#FFFFFF" opacity="0.06" transform="skewX(-18)">
+      <animate attributeName="x" values="-160;520" dur="4.5s" begin="-2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <!-- map with pin -->
+  <g>
+    <rect x="24" y="24" width="58" height="102" rx="8" fill="#0B0118" stroke="#8B5CF6" stroke-width="2"/>
+    <path d="M24,58 H82 M24,92 H82 M53,24 V126" stroke="#2D0A4E" stroke-width="3"/>
+    <g transform="translate(53,62)">
+      <animateTransform attributeName="transform" type="translate" values="53,62;53,54;53,62" dur="2.2s" repeatCount="indefinite"/>
+      <path d="M0,-14 C-9,-14 -13,-7 -13,-1 C-13,8 0,16 0,16 C0,16 13,8 13,-1 C13,-7 9,-14 0,-14 Z" fill="#EC4899"/>
+      <circle r="4.5" cy="-2" fill="#14062B"/>
+    </g>
+    <circle cx="36" cy="110" r="3" fill="#8B5CF6"/>
+    <circle cx="70" cy="38" r="3" fill="#8B5CF6"/>
+  </g>
+  <text x="102" y="48" font-family="Verdana, Geneva, sans-serif" font-size="16" font-weight="bold" fill="#F9A8D4">Google-Maps-Scrapper</text>
+  <text x="102" y="72" font-family="Verdana, Geneva, sans-serif" font-size="11.5" fill="#DDD6FE">Business leads from Google Maps into Excel —</text>
+  <text x="102" y="89" font-family="Verdana, Geneva, sans-serif" font-size="11.5" fill="#DDD6FE">emails, phones &amp; websites, automatically.</text>
+  <g font-family="Verdana, Geneva, sans-serif" font-size="10" fill="#F5F3FF">
+    <rect x="102" y="106" width="54" height="19" rx="9.5" fill="#6D28D9"/><text x="129" y="119" text-anchor="middle">Python</text>
+    <rect x="164" y="106" width="72" height="19" rx="9.5" fill="#6D28D9"/><text x="200" y="119" text-anchor="middle">Playwright</text>
+    <rect x="244" y="106" width="46" height="19" rx="9.5" fill="#6D28D9"/><text x="267" y="119" text-anchor="middle">Excel</text>
+  </g>
+</svg>

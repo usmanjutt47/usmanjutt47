@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="130" viewBox="0 0 800 130">
+  <defs>
+    <radialGradient id="mViolet" cx="38%" cy="32%" r="80%">
+      <stop offset="0%" stop-color="#DDD6FE"/><stop offset="100%" stop-color="#7C3AED"/>
+    </radialGradient>
+    <radialGradient id="mPink" cx="38%" cy="32%" r="80%">
+      <stop offset="0%" stop-color="#FBCFE8"/><stop offset="100%" stop-color="#DB2777"/>
+    </radialGradient>
+    <radialGradient id="mCyan" cx="38%" cy="32%" r="80%">
+      <stop offset="0%" stop-color="#A5F3FC"/><stop offset="100%" stop-color="#0891B2"/>
+    </radialGradient>
+    <radialGradient id="mOrange" cx="38%" cy="32%" r="80%">
+      <stop offset="0%" stop-color="#FDE68A"/><stop offset="100%" stop-color="#EA580C"/>
+    </radialGradient>
+  </defs>
+  <g font-family="Verdana, Geneva, sans-serif" text-anchor="middle">
+    <circle cx="100" cy="45" r="30" fill="url(#mViolet)"><animate attributeName="r" values="30;32;30" dur="4s" repeatCount="indefinite"/></circle>
+    <text x="100" y="53" font-size="20" font-weight="bold" fill="#2E1065">★</text>
+    <text x="100" y="98" font-size="17" font-weight="bold" fill="#F8FAFC">21,844</text>
+    <text x="100" y="116" font-size="10.5" letter-spacing="1.5" fill="#A78BFA">CONTRIBUTIONS</text>
+
+    <circle cx="300" cy="45" r="30" fill="url(#mPink)"><animate attributeName="r" values="30;32;30" dur="4s" begin="-1s" repeatCount="indefinite"/></circle>
+    <text x="300" y="53" font-size="20" font-weight="bold" fill="#500724">▲</text>
+    <text x="300" y="98" font-size="17" font-weight="bold" fill="#F8FAFC">41 Days</text>
+    <text x="300" y="116" font-size="10.5" letter-spacing="1.5" fill="#A78BFA">LONGEST STREAK</text>
+
+    <circle cx="500" cy="45" r="30" fill="url(#mCyan)"><animate attributeName="r" values="30;32;30" dur="4s" begin="-2s" repeatCount="indefinite"/></circle>
+    <text x="500" y="53" font-size="20" font-weight="bold" fill="#083344">◆</text>
+    <text x="500" y="98" font-size="17" font-weight="bold" fill="#F8FAFC">3 Repos</text>
+    <text x="500" y="116" font-size="10.5" letter-spacing="1.5" fill="#A78BFA">PUBLIC PROJECTS</text>
+
+    <circle cx="700" cy="45" r="30" fill="url(#mOrange)"><animate attributeName="r" values="30;32;30" dur="4s" begin="-3s" repeatCount="indefinite"/></circle>
+    <text x="700" y="54" font-size="20" font-weight="bold" fill="#431407">∞</text>
+    <text x="700" y="98" font-size="17" font-weight="bold" fill="#F8FAFC">Open Source</text>
+    <text x="700" y="116" font-size="10.5" letter-spacing="1.5" fill="#A78BFA">ALWAYS BUILDING</text>
+  </g>
+</svg>
